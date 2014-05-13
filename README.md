@@ -1,6 +1,6 @@
 ---
-tags: object orientation, oo, attribtues, attr_accessor
-language: ruby
+  tags: object orientation, oo, attribtues, attr_accessor
+  language: ruby
   resources: 2
 ---
 
@@ -279,5 +279,5 @@ Similarly, on? isn't your standard reader.
 It reads from a different variable name
 and ends in a question mark. Still valid.
 ## Resources
-* [ZetCode](http://zetcode.com/) - [Object-oriented programming in Ruby](http://zetcode.com/lang/rubytutorial/oop/), page 
+* [ZetCode](http://zetcode.com/) - [Object-oriented programming in Ruby](http://zetcode.com/lang/rubytutorial/oop/) 
 * [ZetCode](http://zetcode.com/) - [Object-oriented programming II in Ruby](http://zetcode.com/lang/rubytutorial/oop2/)
