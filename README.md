@@ -1,6 +1,7 @@
 ---
 tags: object orientation, oo, attribtues, attr_accessor
 language: ruby
+  resources: 2
 ---
 
 Attributes are properties we give our objects.
@@ -277,3 +278,6 @@ as a state, or a flag, or a switch.
 Similarly, on? isn't your standard reader.
 It reads from a different variable name
 and ends in a question mark. Still valid.
+## Resources
+* [ZetCode](http://zetcode.com/) - [Object-oriented programming in Ruby](http://zetcode.com/lang/rubytutorial/oop/), page 
+* [ZetCode](http://zetcode.com/) - [Object-oriented programming II in Ruby](http://zetcode.com/lang/rubytutorial/oop2/)
