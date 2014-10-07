@@ -1,5 +1,5 @@
 ---
-  tags: object orientation, oo, attribtues, attr_accessor
+  tags: object orientation, oo, attribtues, attr_accessor, tutorial
   language: ruby
   resources: 2
 ---
