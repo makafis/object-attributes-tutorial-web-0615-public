@@ -225,5 +225,7 @@ Similarly, `on?` isn't your standard reader. It reads from a different variable 
 
 ## Resources
 
+
+
 * [ZetCode](http://zetcode.com/) - [Object-oriented programming in Ruby](http://zetcode.com/lang/rubytutorial/oop/) 
 * [ZetCode](http://zetcode.com/) - [Object-oriented programming II in Ruby](http://zetcode.com/lang/rubytutorial/oop2/)
